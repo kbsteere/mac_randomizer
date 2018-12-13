@@ -8,9 +8,7 @@ ___
 Script will return something like this:
 
 `[ ok ] Stopping network-manager (via systemctl): network-manager.service.`
-
 `Changing MAC for wlan0 from 00:00:00:00:00:00 to ff:ff:ff:ff:ff:ff`
-
 `[ ok ] Starting network-manager (via systemctl): network-manager.service.`
 
 **Note:** script may require changing permissions to an executable. Use _chmod 755 filename_
